@@ -1,6 +1,5 @@
 ## 👋 Bio
 ### Hi, I'm Kaloyan
-- 📫 How to reach me: **kaloyanhadzhitsanchev@gmail.com**
 
 <h3 align="left">Technologies and Tools:</h3>
 <p align="left">
